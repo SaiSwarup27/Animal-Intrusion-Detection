@@ -26,7 +26,11 @@
 - The detected image is displayed
 
 ### Predictions
-
+> Image
 <p align="center" width="100%">
-    <img width="30%" height="450" src="[https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png](https://github.com/SaiSwarup27/Animal-Intrusion-Detection/blob/main/Images/pred_cattle.jpg)">
+    <img width="80%" height="450" src="https://github.com/SaiSwarup27/Animal-Intrusion-Detection/blob/main/Images/pred_cattle.jpg">
 </p>
+
+> Video </br>
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
