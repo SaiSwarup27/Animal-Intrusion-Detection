@@ -28,12 +28,5 @@
 ### Predictions
 
 <p align="center" width="100%">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winning.png">
-    <img width="30%" height="450" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_draw.png">
-</p>
-<p align="center" width="100%">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winningmsg.png">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player2_winningmsg.png">
-    <img width="30%" height="200" src="https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/match_drawmsg.png">
+    <img width="30%" height="450" src="[https://github.com/SaiSwarup27/Tic-Tac-Toe-using-Tkinter/blob/master/images/player1_winning.png](https://github.com/SaiSwarup27/Animal-Intrusion-Detection/blob/main/Images/pred_cattle.jpg)">
 </p>
