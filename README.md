@@ -32,5 +32,9 @@
 </p>
 
 > Video </br>
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
+https://user-images.githubusercontent.com/96674419/171603746-b8281df0-1d90-4378-9830-50f71404b53d.mp4
+
+
+
 
