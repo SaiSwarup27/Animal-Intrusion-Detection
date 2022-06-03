@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sha
 ### Predictions
 > Image
 <p align="center" width="100%">
-    <img width="90%" height="450" src="https://github.com/SaiSwarup27/Animal-Intrusion-Detection/blob/main/Images/pred_cattle.jpg">
+    <img width="90%" src="https://github.com/SaiSwarup27/Animal-Intrusion-Detection/blob/main/Images/pred_cattle.jpg">
 </p>
 
 > Video </br>
