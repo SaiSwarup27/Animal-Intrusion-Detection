@@ -2,7 +2,7 @@
 > Animal Intrusion Detection using yolov5
 
 ### Preparing the Data
-- Various classes are collected (Tiger, Giraffe, Lion, Monkey, Cow ...)
+- Various classes are collected (Tiger, Giraffe, Lion, Monkey, Cow, ...)
 - The collected data was labelled
 
 ### Spliting the Data
