@@ -5,7 +5,20 @@
 https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing
 
 ### Preparing the Data
-- Various classes are collected (Tiger, Giraffe, Lion, Monkey, Cow, ...)
+- Various classes are collected 
+    - Giraffe
+    - Tiger
+    - Bear
+    - Lion
+    - Elephant
+    - Deer
+    - Wolf
+    - Bull
+    - Monkey
+    - Leopord
+    - Rhinoceros
+    - Hippo
+    - Cattle
 - The collected data was labelled
 
 ### Spliting the Data
