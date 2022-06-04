@@ -1,0 +1,10 @@
+#train and val data
+
+train: ../animal_dataset/images/train/
+val: ../animal_dataset/images/val/
+
+#number of classes
+nc: 15
+
+#class names
+names: ['giraffe','tiger','bear','lion','elephant','deer','wolf','bull','monkey','leopard','rhinoceros','hippo','cattle','buffaloe','goat']
