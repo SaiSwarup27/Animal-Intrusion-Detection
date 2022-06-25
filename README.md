@@ -6,8 +6,8 @@ https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sha
 
 ### Preparing the Data
 - Various classes are collected 
-    - Giraffe
     - Tiger
+    - Giraffe
     - Bear
     - Lion
     - Elephant
